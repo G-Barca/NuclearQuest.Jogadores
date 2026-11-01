@@ -1,0 +1,7 @@
+[
+  { "id": 1, "nome": "Mario Games",   "email": "mariogames@email.com",   "pontuacao": 120, "dataCadastro": "2026-10-01T10:00:00" },
+  { "id": 2, "nome": "Luigi Games",   "email": "luigigames@email.com", "pontuacao": 80,  "dataCadastro": "2026-10-01T10:05:00" },
+  { "id": 3, "nome": "Lara Croft",    "email": "laracroft@email.com", "pontuacao": 350, "dataCadastro": "2026-10-01T10:10:00" },
+  { "id": 4, "nome": "Marcelo Torres","email": "marcelotorres@email.com", "pontuacao": 40,  "dataCadastro": "2026-10-01T10:15:00" },
+  { "id": 5, "nome": "Clementime Walker", "email": "clementinewalker@email.com",   "pontuacao": 620, "dataCadastro": "2026-10-01T10:20:00" }
+]
