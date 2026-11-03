@@ -25,15 +25,15 @@ Email único; sistema de niveis com pontuação; pontos devem ser maiores que ze
 ## Como executar
 
 - Instale o .NET 10 SDK
-- Na pasta do projeto: "dotnet run"
+- Na pasta do projeto: 'dotnet run'
 - Use o menu numérico (de 1 a 4, sendo 0 para sair).
 
 
 ## Arquitetura
 
-Program.cs                      | menu e tratamento de erros
-Services/JogadorService         | regras de negócio
-Repositories/JogadorRepository  | leitura e gravação do JSON
-Models/                         | entidade Jogador e níveis
-Exceptions/                     | exceções de validação e de regra de negócio
-data/jogadores.json             | mockdata
+Program.cs                      - menu e tratamento de erros
+Services/JogadorService         - regras de negócio
+Repositories/JogadorRepository  - leitura e gravação do JSON
+Models/                         - entidade Jogador e níveis
+Exceptions/                     - exceções de validação e de regra de negócio
+data/jogadores.json             - dados de exemplo
